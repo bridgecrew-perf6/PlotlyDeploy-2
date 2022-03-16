@@ -3,9 +3,7 @@ body {
     color: #0a0a0a;
   }
 
-  
-
-  .jumbotron {
+    .jumbotron {
     background-image: url("/images/Capture.JPG");
     background-size: 100% 100%;
     text-align: center;
